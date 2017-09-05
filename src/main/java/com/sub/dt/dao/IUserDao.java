@@ -6,25 +6,25 @@ public interface IUserDao {
 
     /**
      * @Description
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     int insertUser(User user);
 
     /**
      * @Description
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     int deleteByuserNum(User user);
 
     /**
      * @Description
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     int updateByUserNum(User user);
 
     /**
      * @Description
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     User selectByUserNum(User user);
 }

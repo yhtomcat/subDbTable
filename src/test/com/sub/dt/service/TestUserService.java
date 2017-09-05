@@ -22,7 +22,7 @@ public class TestUserService {
 
     /**
      * @Description 测试分库分表插入
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     @Test
     public void testInsertUser(){
@@ -38,7 +38,7 @@ public class TestUserService {
 
     /**
      * @Description 测试分库分表删除
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     @Test
     public void testDeleteByuserNum(){
@@ -51,7 +51,7 @@ public class TestUserService {
 
     /**
      * @Description 测试分库分表修改
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     @Test
     public void testupdateByUserNum(){
@@ -64,7 +64,7 @@ public class TestUserService {
 
     /**
      * @Description 测试分库分表查询
-     * @Autohr supers【weChat:13031016567】
+     * @Autohr supers【weChat:15200095880】
      */
     @Test
     public void testQueryUserByNum(){
